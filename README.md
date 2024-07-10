@@ -45,8 +45,7 @@ An automated reconnaissance tool written in Python to automates the google meet 
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kameshwaran-b-j-5906b0239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0xwigu%2BpRpCfdmQJpgWVGw%3D%3D)
-- Twitter: [@your-username](https://twitter.com/your-username)
+- LinkedIn: [Kameshwaran B J](https://www.linkedin.com/in/kameshwaran-b-j-5906b0239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0xwigu%2BpRpCfdmQJpgWVGw%3D%3D)
 - Email: [your-kameshajkj7190@gmail.com](mailto:kameshajkj7190@gmail.com)
 
 ## GitHub Stats
